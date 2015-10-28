@@ -1,3 +1,10 @@
+# csv
+*.csv
+
+# gzip data file
+*.gz
+*.gzip
+
 # zip data file
 *.zip
 
