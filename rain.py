@@ -7,6 +7,6 @@ import sys
 import numpy as np
 
 #Load training data
-train = np.genfromtxt('data/train.csv.gz',dtype=None,delimiter=',',skip_header=1)
+train = np.genfromtxt('data/train.csv.gz',dtype=float,delimiter=',',skip_header=1)
 
 
